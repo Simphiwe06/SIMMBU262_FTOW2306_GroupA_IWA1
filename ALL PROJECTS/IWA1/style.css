@@ -39,6 +39,7 @@ body {
 /* controls */
 .controls {
     background: yellow;
+    text-align: center;
 }
 
 /* counter */
@@ -90,7 +91,7 @@ body {
 /* footer */
 .footer {
     background: var(--color-dark-grey);
-    color: var(--color-medium-grey);
+    color: var(--color-light-grey);
     padding: 2rem;
     font-size: 0.8rem;
     text-align: center;
